@@ -1,0 +1,17 @@
+#listBox{
+    height: 460px;
+    overflow: hidden;
+    overflow-y: auto;
+
+}
+#list{
+    margin: 5px;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: rgb(176, 185, 236);
+}
+#names{
+    color: white;
+    text-decoration-line: none;
+    font-weight: 900;
+}

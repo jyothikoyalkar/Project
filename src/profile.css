@@ -1,0 +1,54 @@
+ul{
+    margin-top: 15px;
+    list-style:none;
+    width: 330px;
+    height: 500px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+#nameli{
+    font-Size:15px;
+    display:flex;
+    justify-content:center;
+    font-weight: bolder;
+}
+#numberli{
+    font-Size: 15px;
+    display: flex;
+    justify-Content: center;
+}
+#editBox{
+    position: absolute;
+    left: 860px;
+}
+#profilePic{
+    display: flex;
+    justify-Content: center
+}
+#iconsli{
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+#callSymbol{
+    border: 1px solid;
+    background:green;
+    color:white;
+    margin-right: 15px;
+    font-size: xx-large;
+}
+
+#megSymbol{
+    border: 1px solid;
+    margin-right: 15px;
+    background-color: rgb(255, 166, 0);
+    color:white;
+    font-size: xx-large;
+}
+#mailSymbol{
+    border: 1px solid;
+    color:white;
+    background-color: red;
+    font-size: xx-large;
+}

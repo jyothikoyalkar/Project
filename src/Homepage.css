@@ -1,0 +1,17 @@
+#mainBody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#screen{
+    border: 2px solid;
+    border-radius: 25px;
+    height: 550px;
+    width: 350px;
+    margin-top: 50px;
+    background-color: white;
+}
+body{
+    background-image: url('../public/background-img.jpg');
+}
